@@ -4,6 +4,5 @@ blog:
   title-class-name: title
   summary-class-name: excerpt
   date-class-name: date
-
 github:
   repo-name: hichang4u/hichang4u
